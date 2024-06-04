@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Karthikeyan-R-2501/IMDB-clone-gitbash/static/css/main.e45fb457.css",
+    "main.js": "/Karthikeyan-R-2501/IMDB-clone-gitbash/static/js/main.27b7f2bc.js",
+    "index.html": "/Karthikeyan-R-2501/IMDB-clone-gitbash/index.html",
+    "main.e45fb457.css.map": "/Karthikeyan-R-2501/IMDB-clone-gitbash/static/css/main.e45fb457.css.map",
+    "main.27b7f2bc.js.map": "/Karthikeyan-R-2501/IMDB-clone-gitbash/static/js/main.27b7f2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.27b7f2bc.js"
+  ]
+}
